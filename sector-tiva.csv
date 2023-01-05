@@ -1,0 +1,46 @@
+sect;source;category
+1;tiva;Agriculture, hunting, forestry
+2;tiva;Fishing and aquaculture
+3;tiva;Mining and quarrying, energy producing products
+4;tiva;Mining and quarrying, non-energy producing products
+5;tiva;Mining support service activities
+6;tiva;Food products, beverages and tobacco
+7;tiva;Textiles, textile products, leather and footwear
+8;tiva;Wood and products of wood and cork
+9;tiva;Paper products and printing
+10;tiva;Coke and refined petroleum products
+11;tiva;Chemical and chemical products
+12;tiva;Pharmaceuticals, medicinal chemical and botanical products
+13;tiva;Rubber and plastics products
+14;tiva;Other non-metallic mineral products
+15;tiva;Basic metals
+16;tiva;Fabricated metal products
+17;tiva;Computer, electronic and optical equipment
+18;tiva;Electrical equipment
+19;tiva;Machinery and equipment, nec
+20;tiva;Motor vehicles, trailers and semi-trailers
+21;tiva;Other transport equipment
+22;tiva;"Manufacturing nec; repair and installation of machinery and equipment"
+23;tiva;Electricity, gas, steam and air conditioning supply
+24;tiva;"Water supply; sewerage, waste management and remediation activities"
+25;tiva;Construction
+26;tiva;"Wholesale and retail trade; repair of motor vehicles"
+27;tiva;Land transport and transport via pipelines
+28;tiva;Water transport
+29;tiva;Air transport
+30;tiva;Warehousing and support activities for transportation
+31;tiva;Postal and courier activities
+32;tiva;Accommodation and food service activities
+33;tiva;Publishing, audiovisual and broadcasting activities
+34;tiva;Telecommunications
+35;tiva;IT and other information services
+36;tiva;Financial and insurance activities
+37;tiva;Real estate activities
+38;tiva;Professional, scientific and technical activities
+39;tiva;Administrative and support services
+40;tiva;"Public administration and defence; compulsory social security"
+41;tiva;Education
+42;tiva;Human health and social work activities
+43;tiva;Arts, entertainment and recreation
+44;tiva;Other service activities
+45;tiva;"Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use "
